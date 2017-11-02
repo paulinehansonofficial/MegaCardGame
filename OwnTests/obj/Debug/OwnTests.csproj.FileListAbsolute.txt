@@ -1,0 +1,13 @@
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\OwnTests.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\OwnTests.pdb
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\obj\Debug\OwnTests.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\obj\Debug\OwnTests.csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\obj\Debug\OwnTests.dll
+C:\Users\Michelle\source\repos\MegaCardGame\OwnTests\obj\Debug\OwnTests.pdb

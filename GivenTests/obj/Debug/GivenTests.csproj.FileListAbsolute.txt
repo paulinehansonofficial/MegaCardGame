@@ -1,0 +1,2 @@
+C:\Users\Michelle\source\repos\MegaCardGame\GivenTests\obj\Debug\GivenTests.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\source\repos\MegaCardGame\GivenTests\obj\Debug\GivenTests.csproj.CoreCompileInputs.cache

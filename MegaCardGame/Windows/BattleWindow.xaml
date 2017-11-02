@@ -1,0 +1,69 @@
+﻿<Window x:Class="MegaCardGame.BattleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        
+        Title="BattleWindow" 
+        Height="350" 
+        Width="525">
+
+    <Grid>
+        <Label 
+            Name="EnemyName"
+            Margin="0,40,60,0" 
+            FontSize="15"
+            FontWeight="DemiBold"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Right"/>
+
+        <Label 
+            Name="EnemyHP"
+            HorizontalAlignment="Right" 
+            Margin="0,75,60,0" 
+            FontSize="15"
+            FontWeight="DemiBold"
+            VerticalAlignment="Top" 
+            Width="75"/>
+
+        <Label 
+            Name="PlayerName"
+            HorizontalAlignment="Left" 
+            Margin="60,40,0,0" 
+            FontSize="15"
+            FontWeight="DemiBold"
+            VerticalAlignment="Top" 
+            Width="120"/>
+
+        <Label 
+            Name="PlayerHP"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="60,75,0,0" 
+            FontSize="15"
+            FontWeight="DemiBold" 
+            Width="75"/>
+
+        <Button 
+            Name="Normal_Attack_Button"
+            Content="Normal Attack" 
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center" 
+            Margin="0,150,200,0"  
+            Width="120" 
+            Height="50"
+            Click="Normal_attack_click"/>
+
+        <Button 
+            Name="Special_Attack_Button"
+            Content="Special Attack" 
+            HorizontalAlignment="Center" 
+            Margin="200,150,0,0" 
+            VerticalAlignment="Center" 
+            Width="120" 
+            Height="50"
+            Click="Special_attack_click"/>
+
+    </Grid>
+</Window>

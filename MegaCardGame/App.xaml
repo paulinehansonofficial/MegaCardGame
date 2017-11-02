@@ -1,0 +1,24 @@
+﻿<Application x:Class="MegaCardGame.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Windows/ChooseClassWindow.xaml">
+    <Application.Resources>
+        
+        <Style TargetType="Button" 
+               x:Key="Button_Style">
+
+            <Setter 
+                Property="Margin" 
+                Value="1,2,1,2"/>
+            <Setter 
+                Property="HorizontalAlignment"
+                Value="Center"/>
+            <Setter 
+                Property="Background"
+                Value="SlateGray"/>
+
+        </Style>
+        <Binding x:Key="myDataSource" Source="{StaticResource myDataSource}"/>
+
+    </Application.Resources>
+</Application>
